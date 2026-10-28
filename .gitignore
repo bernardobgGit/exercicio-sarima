@@ -1,0 +1,13 @@
+# ambiente virtual (não sobe para o GitHub)
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Quarto / Jupyter
+.quarto/
+.jupyter_cache/
+*_cache/
+/.luarc.json
